@@ -1,3 +1,9 @@
+# Import modules --> library
+# Var starts with a letter, then it can have no.s or underscores
+# 5 main Data Types: Numbers, Strings, Lists, Tuples, Dictionaries/Maps
+# 7 Arithmetic Ops : + , - , * , / , %(remainder) , **(exp) , //(floor divn, ignore remiander & rotate down 14.5 -> 14)
+# order of arithmetic op : Multipln &divn b4 addn & subtrn
+
 import random
 import sys
 import os
